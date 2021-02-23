@@ -2,7 +2,7 @@
 * This program is an assignment of Cryptography and Computer Security course.
 * This is a simple 128 bit AES implemantaion with python.
 * This program encrypt 128bit data with given 128bit key.
-* For more information about AES: https://en.wikipedia.org/wiki/Advanced_Encryption_Standard <br /> <br />
+* For more information about AES: https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 # Screenshot
 <img src="SS.PNG" >
 
