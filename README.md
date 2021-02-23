@@ -11,7 +11,7 @@
 * From line 391 in AES.py you can change key value.
 
 # Implementation Details
-* For implementinf AES I used [this](fips-197.pdf) documention.
+* For implementing AES I used [this](fips-197.pdf) documention.
 * This program could not encrypt more than 128 bit data. For encrypting more than 128 bit data modes of operation should be used.
 * For more information about modes of operation: https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation <br /> <br />
 
